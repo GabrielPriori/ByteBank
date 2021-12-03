@@ -1,5 +1,14 @@
 # Bytebank
 
+#Curso de
+#Angular: Começando com o framework Alura
+
+ - Utilize os recursos do framework para acelerar o desenvolvimento
+ - Aprenda a criar componentes Angular
+ - Entenda como transmitir informação entre componentes
+ - Integre dados com API’s REST
+ - Transforme seus componentes em páginas
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.3.
 
 ## Development server
